@@ -1,0 +1,9 @@
+text
+target/
+.classpath
+.project
+.settings/
+.factorypath
+*.class
+test-output/
+
